@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussemarazouane&label=Profile%20views&color=0e75b6&style=flat" alt="oussemarazouane" /> </p>
 
-- 🌱 I’m currently learning **Flutter and Deep learning**
+- 🌱 I’m currently learning **Deep learning**
 
 - 💬 Ask me about **Embedded systems**
 
